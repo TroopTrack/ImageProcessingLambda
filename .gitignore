@@ -3,6 +3,7 @@ node_modules
 
 # build artifacts
 lib
+deploy.zip
 
 # lambdoku
 .lambdoku
